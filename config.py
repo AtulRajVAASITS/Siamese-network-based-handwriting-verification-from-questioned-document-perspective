@@ -1,0 +1,10 @@
+# training_dir = "siamese_net-master/siamese-net/tr"
+# training_csv = "siamese_net-master/siamese-net/trn.csv"
+# testing_csv = "siamese_net-master/siamese-net/te.csv"
+# testing_dir = "siamese_net-master/siamese-net/te"
+training_dir = "siamese_net-master/siamese-net/te"
+training_csv = "siamese_net-master/siamese-net/tee.csv"
+testing_csv = "siamese_net-master/siamese-net/tee.csv"
+testing_dir = "siamese_net-master/siamese-net/te"
+batch_size = 32
+epochs = 20
